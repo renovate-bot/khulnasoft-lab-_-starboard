@@ -18,7 +18,7 @@ require (
 	github.com/onsi/gomega v1.27.6
 	github.com/open-policy-agent/opa v0.46.1
 	github.com/openshift/api v0.0.0-20221013123533-341d389bd4a7
-	github.com/spf13/cobra v1.6.1
+	github.com/spf13/cobra v1.7.0
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.8.2
 	github.com/valyala/quicktemplate v1.7.0
@@ -50,7 +50,7 @@ require (
 	github.com/evanphx/json-patch v5.6.0+incompatible // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/ghodss/yaml v1.0.0 // indirect
-	github.com/go-errors/errors v1.0.1 // indirect
+	github.com/go-errors/errors v1.4.2 // indirect
 	github.com/go-logr/zapr v1.2.3 // indirect
 	github.com/go-openapi/jsonpointer v0.19.6 // indirect
 	github.com/go-openapi/jsonreference v0.20.2 // indirect
@@ -67,7 +67,7 @@ require (
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510 // indirect
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79 // indirect
 	github.com/imdario/mergo v0.3.13 // indirect
-	github.com/inconshreveable/mousetrap v1.0.1 // indirect
+	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/liggitt/tabwriter v0.0.0-20181228230101-89fcab3d43de // indirect
@@ -89,9 +89,9 @@ require (
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb // indirect
 	github.com/xeipuuv/gojsonreference v0.0.0-20180127040603-bd5ef7bd5415 // indirect
-	github.com/xlab/treeprint v0.0.0-20181112141820-a009c3971eca // indirect
+	github.com/xlab/treeprint v1.2.0 // indirect
 	github.com/yashtewari/glob-intersection v0.1.0 // indirect
-	go.starlark.net v0.0.0-20200306205701-8dd3e2ee1dd5 // indirect
+	go.starlark.net v0.0.0-20230525235612-a134d8f9ddca // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
 	go.uber.org/zap v1.21.0 // indirect
