@@ -9,9 +9,6 @@ we encourage you to contribute to [Vul-Operator](https://github.com/khulnasoft-l
 
 for more info and [discussions](https://github.com/khulnasoft-lab/starboard/discussions/1173)
 
-Checkout the latest : [What's next for Vul Q&A](https://www.youtube.com/watch?v=u3cixRRJyYg)
-
-![Starboard logo](docs/images/starboard-logo.png)
 
 > Kubernetes-native security toolkit.
 
@@ -45,10 +42,6 @@ Starboard provides:
 - Penetration test results for a Kubernetes cluster.
 - [Custom Resource Definitions] and a [Go module] to work with and integrate a range of security scanners.
 - The [Octant Plugin] and the [Lens Extension] that make security reports available through familiar Kubernetes interfaces.
-
-<p align="center">
-<img src="docs/images/starboard-overview.png" alt="Starboard Overview"/>
-</p>
 
 Starboard can be used:
 
