@@ -9,7 +9,6 @@ we encourage you to contribute to [Vul-Operator](https://github.com/khulnasoft-l
 
 for more info and [discussions](https://github.com/khulnasoft-lab/starboard/discussions/1173)
 
-
 > Kubernetes-native security toolkit.
 
 [![GitHub Release][release-img]][release]
