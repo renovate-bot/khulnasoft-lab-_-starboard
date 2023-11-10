@@ -42,10 +42,6 @@ Starboard provides:
 - [Custom Resource Definitions] and a [Go module] to work with and integrate a range of security scanners.
 - The [Octant Plugin] and the [Lens Extension] that make security reports available through familiar Kubernetes interfaces.
 
-<p align="center">
-<img src="docs/images/starboard-overview.png" alt="Starboard Overview"/>
-</p>
-
 Starboard can be used:
 
 - As a [Kubernetes operator] to automatically update security reports in response to workload and other changes on a
