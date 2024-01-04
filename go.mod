@@ -17,7 +17,7 @@ require (
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.30.0
 	github.com/open-policy-agent/opa v0.46.1
-	github.com/openshift/api v0.0.0-20221013123533-341d389bd4a7
+	github.com/openshift/api c7a2d3b41e1f
 	github.com/spf13/cobra v1.7.0
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.8.2
