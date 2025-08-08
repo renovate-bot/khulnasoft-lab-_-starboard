@@ -18,7 +18,7 @@ require (
 	github.com/hashicorp/go-version v1.5.0
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.30.0
-	github.com/open-policy-agent/opa v0.60.0
+	github.com/open-policy-agent/opa v1.4.0
 	github.com/openshift/api v0.0.0-20240104110125-c7a2d3b41e1f
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/pflag v1.0.5
